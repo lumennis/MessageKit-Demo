@@ -1,0 +1,16 @@
+PODS:
+  - MessageKit (0.10.1)
+
+DEPENDENCIES:
+  - MessageKit (from `../MessageKit.podspec`)
+
+EXTERNAL SOURCES:
+  MessageKit:
+    :path: ../MessageKit.podspec
+
+SPEC CHECKSUMS:
+  MessageKit: 7b58d99d36a61b4c8fd5b65f4713bbccf4b7bc49
+
+PODFILE CHECKSUM: 9ac65b8dedf0e1b63fea245b089b6645c4e66309
+
+COCOAPODS: 1.4.0
